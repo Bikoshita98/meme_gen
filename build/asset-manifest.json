@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.aed66eff.js",
+    "static/media/trollface.png": "/static/media/trollface.070f791b194ec61cdb2a.png",
+    "index.html": "/index.html",
+    "main.aed66eff.js.map": "/static/js/main.aed66eff.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.aed66eff.js"
+  ]
+}
